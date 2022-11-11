@@ -13,16 +13,16 @@ can use these commands to start the project - "npm run client" to start the Fron
 
 # The project includes: 
 
- / - Home page - Displays advertisments and offers. :-
- /shop - Displays a list with all current offers and is used to sort cars by preferences.
-/product_detail/:productId - Each product offered on the site has a unique ID and can be 
- seen in Detail and with further information.
- /register_login - Can be used for login or can redirect to the registartion page 
- /register - Used for creating accounts.
- /user/dashboard - Used to display the user dashboard and data
- /user/user_profile - Used to edit user profile
- /user/cart - Displays the user cart.
- /user/add_product - Used to add new products to the list.
+ / - Home page - Displays advertisments and offers. <br />
+ /shop - Displays a list with all current offers and is used to sort cars by preferences. <br />
+/product_detail/:productId - Each product offered on the site has a unique ID and can be  <br />
+ seen in Detail and with further information. <br />
+ /register_login - Can be used for login or can redirect to the registartion page  <br />
+ /register - Used for creating accounts. <br />
+ /user/dashboard - Used to display the user dashboard and data <br />
+ /user/user_profile - Used to edit user profile <br />
+ /user/cart - Displays the user cart. <br />
+ /user/add_product - Used to add new products to the list.<br />
 
 # The following features are also included in the project:
 

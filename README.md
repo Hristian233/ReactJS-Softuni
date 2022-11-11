@@ -13,7 +13,7 @@ can use these commands to start the project - "npm run client" to start the Fron
 
 # The project includes: 
 
- / - Home page - Displays advertisments and offers.
+ / - Home page - Displays advertisments and offers. :-
  /shop - Displays a list with all current offers and is used to sort cars by preferences.
 /product_detail/:productId - Each product offered on the site has a unique ID and can be 
  seen in Detail and with further information.

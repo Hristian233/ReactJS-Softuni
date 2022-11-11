@@ -26,5 +26,5 @@ can use these commands to start the project - "npm run client" to start the Fron
 
 # The following features are also included in the project:
 
-Live hosting - https://afternoon-fjord-55275.herokuapp.com/
+
 Paypal button - redirects to paypal in order to finish the purchase.
